@@ -41,14 +41,14 @@ nav ul {
 
 nav ul li {
   display: inline-block;
+  margin: .3em;
   border-radius: .3em;
-  padding: .6em .5em .75em;
   background-color: #713837;
 }
 
 nav ul li a {
-  display: inline;
-  margin: .3em;
+  display: inline-block;
+  padding: .6em .5em .75em;
   color: #fff;
   text-decoration: none;
 }
