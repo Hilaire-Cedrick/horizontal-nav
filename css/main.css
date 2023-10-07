@@ -30,4 +30,5 @@ nav ul li {
 
 nav ul li a {
   display: inline-block;
+  padding: .6em .5em .75em;
 }
