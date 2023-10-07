@@ -47,15 +47,21 @@ nav ul li {
   padding: .6em .5em .75em;
   background-color: #713837;
 }
-@media only screen and (min-width: 400px) {
+
+@media only screen and (min-width: 25em) {
+
   nav ul li {
     margin: .3em;
   }
+
 }
-@media only screen and (min-width: 650px) {
+
+@media only screen and (min-width: 38em) {
+
   nav ul li {
     margin: 0;
   }
+
 }
 
 nav ul li a {
