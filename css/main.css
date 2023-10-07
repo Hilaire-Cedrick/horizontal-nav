@@ -16,13 +16,14 @@ body {
 
 h1 {
   color: #fff;
-  font-family: Bevan;
+  font-family: Bevan, serif;
   font-size: 1.5rem;
   text-align: center;
 }
 
 header {
   background-color: #79756f;
+  border: 2px solid #595652;
 }
 
 nav {
@@ -44,6 +45,7 @@ nav ul li {
 nav ul li a {
   display: inline-block;
   color: #fff;
+  margin: .3em;
   padding: .6em .5em .75em;
   text-decoration: none;
 }
