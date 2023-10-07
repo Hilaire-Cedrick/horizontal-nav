@@ -20,6 +20,10 @@ h1 {
   font-size: 1.5rem;
 }
 
-nav {
+nav ul li {
+  display: inline;
+}
+
+nav ul li a {
   display: inline-block;
 }
