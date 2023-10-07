@@ -31,6 +31,10 @@ nav {
   font-weight: normal;
 }
 
+nav :hover {
+  background-color: #f33;
+}
+
 nav ul {
   list-style-type: none;
   text-align: center;
@@ -38,15 +42,9 @@ nav ul {
 
 nav ul li {
   display: inline-block;
-  /*vertical-align: middle;*/
-  /*margin: .3em;*/
   padding: .6em .5em .75em;
   border-radius: .3em;
   background-color: #713837;
-}
-
-nav ul li:hover {
-  background-color: #f33;
 }
 
 nav ul li a {
