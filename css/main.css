@@ -19,3 +19,7 @@ h1 {
   font-family: Bevan;
   font-size: 1.5rem;
 }
+
+nav {
+  display: inline-block;
+}
