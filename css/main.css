@@ -18,11 +18,18 @@ h1 {
   color: #fff;
   font-family: Georgia, serif;
   font-size: 1.5rem;
+  text-align: center;
+}
+
+header {
+  background-color: #79756f;
 }
 
 nav ul {
   list-style-type: none;
+  text-align: center;
 }
+
 nav ul li {
   display: inline;
   border-radius: 2em;
