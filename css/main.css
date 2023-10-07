@@ -19,35 +19,35 @@ header {
   border: 2px solid #595652;
 }
 
-header h1 {
+h1 {
   color: #fff;
   font-family: Bevan, serif;
   font-size: 1.5rem;
   text-align: center;
 }
 
-header nav {
+nav {
   font-size: 1rem;
   font-weight: normal;
 }
 
-header nav :hover {
+nav :hover {
   background-color: #f33;
 }
 
-header nav ul {
+nav ul {
   list-style-type: none;
   text-align: center;
 }
 
-header nav ul li {
+nav ul li {
   display: inline-block;
   border-radius: .3em;
   padding: .6em .5em .75em;
   background-color: #713837;
 }
 
-header nav ul li a {
+nav ul li a {
   display: inline;
   color: #fff;
   text-decoration: none;
