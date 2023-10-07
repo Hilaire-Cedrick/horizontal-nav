@@ -28,7 +28,6 @@ h1 {
 
 nav {
   font-size: 1rem;
-  font-weight: normal;
 }
 
 nav :hover {
@@ -49,6 +48,7 @@ nav ul li {
 
 nav ul li a {
   display: inline;
+  margin: .3em;
   color: #fff;
   text-decoration: none;
 }
