@@ -1,6 +1,6 @@
 html {
   box-sizing: border-box;
-  font-family: "Bevan";
+  font-family: Bevan;
   font-weight: normal;
   line-height: 1.5;
 }
@@ -11,11 +11,11 @@ html {
 
 body {
   background-color: #dbd6cf;
-  margin: 0 auto;
+  margin: 0;
 }
 
 h1 {
   color: #fff;
-  font-family:  sans-serif;
+  font-family: "PT Sans", sans-serif;
   font-size: 1.5rem;
 }
